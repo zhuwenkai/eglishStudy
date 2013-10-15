@@ -1,0 +1,34 @@
+articulate		清晰的表达，表述
+formal			正规的，官方的
+mockup 			模型
+screenshot		编剧
+artifacts		史前古物品
+deliver 		交付，发表
+folks			人们，大伙
+eventual		最终发生的，结果的
+integrate    	完整的，整体的
+incompatible	不相容的
+morale			斗志，信心
+dissention		异议
+mutual			共同的，相互的
+recrimination	指责，吵架
+acrimonious		剧烈的，刻薄的
+emergency		紧急的，应急的
+heroic			英雄的
+threat			威胁，恐吓
+boil down to	归结为
+sufficient		足够的
+Throughout		自始至终，在什么期间
+infrequently	稀少的，珍贵的
+incorporate		包含，吸收，合并
+repository		仓库
+contact			联系
+conventions		约定，习俗
+prerequisite	先决条件
+muddle			混乱的
+comflict		冲突
+explanation		解释，说明
+robust			坚定地，精力充沛的
+prior			优先的，在什么之前
+verbose			冗长的，啰嗦的
+
